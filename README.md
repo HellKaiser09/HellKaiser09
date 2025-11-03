@@ -29,9 +29,9 @@
 >>> END_OF_TRANSMISSION
 
 > --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------  
->   /\_/\    
-   ( -.- )  zzz...  
-    > ^ <  
+>    /\_/\    
+    ( -.- )  zzz...  
+     > ^ <  
 
 ```bash
 [user@github ~]$ cat ./sobre_mi.txt
@@ -51,9 +51,9 @@
 >>> END_OF_TRANSMISSION
 
 > --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------  
->   /\_/\   
-   ( o.o ) < feed me code  
-    > ^ <   
+>    /\_/\   
+    ( o.o ) < feed me code  
+     > ^ <   
 
 ```bash
 [user@github ~]$ cat ./techs.txt
@@ -84,9 +84,9 @@
 ------------------------------------------------
 ```
 >>> END_OF_TRANSMISSION  
->>>  /\_/\    
-    ( o.o )   
-     > ^ <    
+>>>   /\_/\    
+     ( o.o )   
+      > ^ <    
 
 
 > --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------  
@@ -119,12 +119,13 @@
 > session closed_  
 > logout successful_
 > SESSION_TERMINATED
-```
-
         .-'''-.
        / .===. \
        \/ 6 6 \/
        ( \___/ )
-___ooo__\_____/__ooo___
+ ___ooo__\_____/__ooo___
+```
+
+
 > // END_OF_LINE  
 > // system sleeps, but never truly shuts down...
