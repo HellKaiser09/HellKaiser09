@@ -112,13 +112,13 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=HellKaiser09&theme=matrix&column=4)
 ------------------------------------------------
 > DATA_STREAM::active  
-> uptime: ∞ | user: L4IN_ERR
+> uptime: ∞ | user: L4IN_ERR :finnadie:
 ------------------------------------------------
 
 ```bash
 > session closed_  
 > logout successful_
-> SESSION_TERMINATED
+> SESSION_TERMINATED 
         .-'''-.
        / .===. \
        \/ 6 6 \/
