@@ -28,10 +28,10 @@
 
 >>> END_OF_TRANSMISSION
 
-> --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------
->   /\_/\  
-   ( -.- )  zzz...
-    > ^ <
+> --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------  
+>   /\_/\    
+   ( -.- )  zzz...  
+    > ^ <  
 
 ```bash
 [user@github ~]$ cat ./sobre_mi.txt
@@ -50,10 +50,10 @@
 
 >>> END_OF_TRANSMISSION
 
-> --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------
->   /\_/\  
-   ( o.o ) < feed me code
-    > ^ < 
+> --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------  
+>   /\_/\   
+   ( o.o ) < feed me code  
+    > ^ <   
 
 ```bash
 [user@github ~]$ cat ./techs.txt
@@ -83,18 +83,18 @@
 > • OSINT Tools       [██░░░░░░░░] 20%
 ------------------------------------------------
 ```
->>> END_OF_TRANSMISSION
->>>  /\_/\  
-    ( o.o ) 
-     > ^ <  
+>>> END_OF_TRANSMISSION  
+>>>  /\_/\    
+    ( o.o )   
+     > ^ <    
 
 
-> --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------
->     |\      _,,,---,,_
-    /,`.-'`'    -.  ;-;;,_
-   |,4-  ) )-,_..;\ (  `'-'
-  '---''(_/--'  `-'\_)
-     H4CK3R C47
+> --------------------[ SIGNAL LOST :: RECONNECTING... ]----------------  
+>     |\      _,,,---,,_  
+    /,`.-'`'    -.  ;-;;,_  
+   |,4-  ) )-,_..;\ (  `'-'  
+  '---''(_/--'  `-'\_)  
+     H4CK3R C47  
 
 ```bash
 [user@github ~]$ sudo apt activity-log
